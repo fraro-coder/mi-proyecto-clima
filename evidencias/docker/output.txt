@@ -1,0 +1,7 @@
+CONTAINER ID   IMAGE      COMMAND                  CREATED          STATUS                      PORTS     NAMES
+b55a44e9e454   climaapp   "python3 app_clima.py"   58 seconds ago   Exited (0) 57 seconds ago             samplerunning
+9e2c0db8de84   busybox    "nslookup google.com"    11 minutes ago   Exited (0) 11 minutes ago             gallant_neumann
+=== CLIMA EN SANTIAGO ===
+temperatura:20.18°c
+humedad:31%
+condición:clear sky
